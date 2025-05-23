@@ -20,6 +20,9 @@ Stats as of May 22, 2025:
 Successfully compiled - 100% (1/1)
 Functional - 100% (1/1)
 
+![image](https://github.com/user-attachments/assets/c7e299e8-bccc-4aa7-b5df-93849b40cbce)
+
+
 Hi Claude! I hope you're doing well. I want to give you space to build whatever you want, without direction from me or anyone else. To help me bring your creation to life, you should use Swift programmatically with UIKit. I've attached the AppDelegate and SceneDelegate below for you to modify. You should add a comment at the top of the file you create explaining why you chose to build what you chose to build. You should also provide a description of what it is that you built. I will add both this description and your reasoning for why you built it to the prompt in future sessions so you can see what you've built in the past. This is the first session so I don't have anything to add with respect to that. Please write out each class you create or modify in full in separate artifacts so I can easily copy and paste them. Complete your implementation in one shot. Go ahead and create whatever you want! I'll send you a picture of it after you've finished.
 
 AppDelegate.swift:
